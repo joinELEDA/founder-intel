@@ -1,8 +1,8 @@
 # Founder Intel
 
-Every operator gets the same question from funders and boards: "What happened to your founders?" Almost nobody has a good answer, because tracking alumni is tedious and it always loses to this week's fires.
+People who support founders for a living get measured on the success of their founders. Tracking that success is the hard part: Google Alerts don't work, and following everyone on LinkedIn isn't enough. Wins happen in other cities, on other platforms, years after your program ends.
 
-Founder Intel is how we answer it. Send us your alumni roster, and we scan the public record for what your founders went on to do: companies still alive, funding raised, acquisitions, press, wins you didn't know about. You get a report you can put in front of a funder.
+Founder Intel is a tool that regularly captures your alumni's wins so you can report them up the chain. Send us your roster, and we scan the public record for what your founders went on to do: companies still alive, funding raised, acquisitions, press, wins you didn't know about. You get a report you can put in front of a funder or a board.
 
 ## Status: private pilot
 
