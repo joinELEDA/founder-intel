@@ -10,7 +10,9 @@ We're running this with a small number of partner organizations, concierge-style
 
 Want your alumni scanned? [Request access](mailto:cam@joineleda.org?subject=Founder%20Intel%20access).
 
-A self-serve version (bring your own AI, run the scan yourself) is under evaluation. Watch this repo.
+Prefer to run it yourself? The self-serve pack is live: [founder-intel-pack](https://github.com/joinELEDA/founder-intel-pack). Bring your own AI, your own roster, your own tokens. It's early and a little rough; its README says so honestly.
+
+However you run it, treat findings as leads, not verdicts. If you've graduated 400 founders, you were never going to Google them all; Founder Intel points at the ones worth a closer look. Verify a win at its source before you report it up the chain.
 
 ---
 
