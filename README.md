@@ -4,9 +4,13 @@ People who support founders for a living get measured on the success of their fo
 
 Founder Intel is a tool that regularly captures your alumni's wins so you can report them up the chain. Send us your roster, and we scan the public record for what your founders went on to do: companies still alive, funding raised, acquisitions, press, wins you didn't know about. You get a report you can put in front of a funder or a board.
 
-| ![A plain spreadsheet of alumni names, ventures, and cities](assets/roster-in.png) | ![A Founder Intel report: wins, watch items, and statuses, each with a source](assets/report-out.png) |
-|:--:|:--:|
-| **1. You send your alumni roster** | **2. You get back a report you can hand a funder** |
+![A plain spreadsheet of alumni names, ventures, and cities](assets/roster-in.png)
+
+**1. You send your alumni roster**
+
+![A Founder Intel report: wins, watch items, and statuses, each with a source](assets/report-out.png)
+
+**2. You get back a report you can hand a funder**
 
 
 ## Status: private pilot
